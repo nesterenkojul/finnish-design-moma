@@ -1,2 +1,2 @@
-# finnish-design-moma
-Supporting data and code for the research project that looks at Finnish design In MoMA’s collection through data, visualisation and material composition
+# Finnish Design In MoMA’s Collection – A Look Through Data, Visualisation And Material Composition
+Supporting data and code for the research project on the representation of Finnish design in the collection of the Museum of Modern Art, New York.
